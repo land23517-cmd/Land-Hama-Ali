@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 900">
+  <rect width="2100" height="900" fill="#111110"/>
+  <g stroke="#f4f4ef" stroke-opacity="0.05" fill="none" stroke-width="2">
+    <path d="M0 225H2100M0 450H2100M0 675H2100"/>
+    <path d="M525 0V900M1050 0V900M1575 0V900"/>
+    <path d="M0 0L2100 900M2100 0L0 900"/>
+  </g>
+  <circle cx="1050" cy="420" r="72" fill="none" stroke="#f4f4ef" stroke-opacity="0.28" stroke-width="3"/>
+  <path d="M1024 390l62 31-62 31z" fill="#f4f4ef" fill-opacity="0.28"/>
+  <text x="1050" y="590" font-family="'Courier New',monospace" font-size="30" letter-spacing="12" fill="#f4f4ef" fill-opacity="0.22" text-anchor="middle">SHOWREEL HERE</text>
+</svg>

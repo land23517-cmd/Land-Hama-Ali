@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#111110"/>
+  <g stroke="#f4f4ef" stroke-opacity="0.05" fill="none" stroke-width="2">
+    <path d="M0 250H1600M0 500H1600M0 750H1600"/>
+    <path d="M400 0V1000M800 0V1000M1200 0V1000"/>
+    <path d="M0 0L1600 1000M1600 0L0 1000"/>
+  </g>
+  <circle cx="800" cy="480" r="70" fill="none" stroke="#f4f4ef" stroke-opacity="0.28" stroke-width="3"/>
+  <path d="M775 450l60 30-60 30z" fill="#f4f4ef" fill-opacity="0.28"/>
+  <text x="800" y="640" font-family="'Courier New',monospace" font-size="30" letter-spacing="10" fill="#f4f4ef" fill-opacity="0.22" text-anchor="middle">DROP FOOTAGE HERE</text>
+</svg>

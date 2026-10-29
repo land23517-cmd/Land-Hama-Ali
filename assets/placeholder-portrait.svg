@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#111110"/>
+  <g stroke="#f4f4ef" stroke-opacity="0.05" fill="none" stroke-width="2">
+    <path d="M0 300H900M0 600H900M0 900H900"/>
+    <path d="M225 0V1200M450 0V1200M675 0V1200"/>
+    <path d="M0 0L900 1200M900 0L0 1200"/>
+  </g>
+  <circle cx="450" cy="540" r="90" fill="none" stroke="#f4f4ef" stroke-opacity="0.25" stroke-width="3"/>
+  <circle cx="450" cy="505" r="32" fill="#f4f4ef" fill-opacity="0.25"/>
+  <path d="M390 630c0-35 27-60 60-60s60 25 60 60v20H390z" fill="#f4f4ef" fill-opacity="0.25"/>
+  <text x="450" y="780" font-family="'Courier New',monospace" font-size="26" letter-spacing="8" fill="#f4f4ef" fill-opacity="0.22" text-anchor="middle">YOUR PHOTO HERE</text>
+</svg>
